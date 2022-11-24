@@ -19,7 +19,7 @@ function Footer() {
               <i class="fab fa-google"></i></a>
 
 
-            <a class="btn btn-primary btn-floating m-1" href="#!" role="button">
+            <a class="btn instagram btn-floating m-1" href="#!" role="button">
               <i class="fab fa-instagram"></i></a>
 
             <a class="btn  btn-floating m-1 git" href="#!" role="button">
