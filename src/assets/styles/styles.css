@@ -1,0 +1,41 @@
+.bg-color-nav{
+    background-color: #f1f1f1;
+    color: white;
+}
+header{
+    background: url(../images/header.png);
+    background-size: cover;
+    background-position-y: bottom;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tamano-letra{
+    font-size: 70px;
+}
+.facebook{
+    background-color: #0037ff;
+    color: white;
+}
+.facebook:hover{
+    background-color: #3b66ff;
+}
+
+.google{
+    background-color: rgb(143, 36, 36);
+    color: white;
+}
+.google:hover{
+    background-color: rgb(133, 42, 42);
+}
+.git{
+    background-color: black;
+    color: #f1f1f1;
+}
+.git:hover{
+    background-color: rgb(17, 13, 13);
+    
+}
