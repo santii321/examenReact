@@ -27,7 +27,7 @@ const Layout = () => {
             </ul>
             <form className="d-flex" role="search">
               <input className="form-control me-2" type="search" placeholder="Buscar producto" />
-              <button className="btn btn-outline-success" type="submit">Buscar</button>
+              <Link className="btn btn-outline-success" to="/productos">Buscar</Link>
             </form>
           </section>
         </section>
