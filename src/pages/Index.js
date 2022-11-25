@@ -13,125 +13,125 @@ import Footer from "../componentes/Footer";
 function Index() {
   return (
     <>
-    <section className="album py-5 bg-light">
-    <section className="container">
-      <section className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis} />
+      <section className="album py-5 bg-light">
+        <section className="container">
+          <section className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis} />
 
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado hace 9 minutos</small>
+                <section className="card-body">
+                  <p className="card-text">El uso medicinal del cannabis está evolucionando rápidamente en numerosos países..</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado hace 9 minutos</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis1} />
+
+                <section className="card-body">
+                  <p className="card-text">El cannabis (también llamado marihuana o weed) es una de las plantas medicinales conocidas más antiguas. </p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado hace 1 día</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis2} />
+
+                <section className="card-body">
+                  <p className="card-text">El cannabis medicinal solo se vende en farmacias y tiene que ser recetado por un médico.</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado hace 7 días</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis3} />
+
+                <section className="card-body">
+                  <p className="card-text">Las fases de proceso del cultivo de marihuana van desde la preparación de un ambiente para las plantas hasta su posterior secado.</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado hace 7 días</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis4} />
+
+                <section className="card-body">
+                  <p className="card-text">Cuando la planta alcance un palmo de altitud aproximadamente, depende mucho, podremos observar en las interse....</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado hace 7 días</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis5} />
+
+                <section className="card-body">
+                  <p className="card-text">Cuando una planta se cultiva en interior son muchos los factores que hay que controlar, pero el más importante es la luz..</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado hace 15 días</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis6} />
+
+                <section className="card-body">
+                  <p className="card-text">El cultivo en tierra es el más generalizado por ser el más típico y el "más fácil" de cultivar..</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado el 24/10/2022</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis7} />
+
+                <section className="card-body">
+                  <p className="card-text">Hay mucha variedades de nutrientes en el mercado, especializados para cultivo en hidropónico, aeropónico, y para cultivo en tierra.</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado el 24/10/2022</small>
+                  </section>
+                </section>
+              </section>
+            </section>
+            <section className="col">
+              <section className="card shadow-sm">
+                <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis8} />
+
+                <section className="card-body">
+                  <p className="card-text">El secado de los cogollos del cannabis es una fase importante para potenciar los efectos psicoactivos de la flor.</p>
+                  <section className="d-flex justify-content-between align-items-center">
+                    <small className="text-muted">Publicado el 24/10/2022</small>
+                  </section>
+                </section>
               </section>
             </section>
           </section>
         </section>
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis1} />
 
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado hace 1 día</small>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis2} />
-
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado hace 7 días</small>
-              </section>
-            </section>
-          </section>
-        </section>
-
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis3}/>
-
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado hace 7 días</small>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis4} />
-
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado hace 7 días</small>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis5} />
-
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado hace 15 días</small>
-              </section>
-            </section>
-          </section>
-        </section>
-
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis6} />
-
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado el 24/10/2022</small>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis7} />
-
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado el 24/10/2022</small>
-              </section>
-            </section>
-          </section>
-        </section>
-        <section className="col">
-          <section className="card shadow-sm">
-            <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis8}/>
-
-            <section className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <section className="d-flex justify-content-between align-items-center">
-                <small className="text-muted">Publicado el 24/10/2022</small>
-              </section>
-            </section>
-          </section>
-        </section>
       </section>
-    </section>
-    
-    </section>
-<Footer/>
-</>
+      <Footer />
+    </>
   )
 };
 
