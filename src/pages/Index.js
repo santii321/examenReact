@@ -13,123 +13,123 @@ import Footer from "../componentes/Footer";
 function Index() {
   return (
     <>
-    <div className="album py-5 bg-light">
-    <div className="container">
-      <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <div className="col">
-          <div className="card shadow-sm">
+    <section className="album py-5 bg-light">
+    <section className="container">
+      <section className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis} />
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado hace 9 minutos</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="col">
-          <div className="card shadow-sm">
+              </section>
+            </section>
+          </section>
+        </section>
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis1} />
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado hace 1 día</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="col">
-          <div className="card shadow-sm">
+              </section>
+            </section>
+          </section>
+        </section>
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis2} />
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado hace 7 días</small>
-              </div>
-            </div>
-          </div>
-        </div>
+              </section>
+            </section>
+          </section>
+        </section>
 
-        <div className="col">
-          <div className="card shadow-sm">
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis3}/>
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado hace 7 días</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="col">
-          <div className="card shadow-sm">
+              </section>
+            </section>
+          </section>
+        </section>
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis4} />
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado hace 7 días</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="col">
-          <div className="card shadow-sm">
+              </section>
+            </section>
+          </section>
+        </section>
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis5} />
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado hace 15 días</small>
-              </div>
-            </div>
-          </div>
-        </div>
+              </section>
+            </section>
+          </section>
+        </section>
 
-        <div className="col">
-          <div className="card shadow-sm">
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis6} />
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado el 24/10/2022</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="col">
-          <div className="card shadow-sm">
+              </section>
+            </section>
+          </section>
+        </section>
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis7} />
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado el 24/10/2022</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="col">
-          <div className="card shadow-sm">
+              </section>
+            </section>
+          </section>
+        </section>
+        <section className="col">
+          <section className="card shadow-sm">
             <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={img_canavis8}/>
 
-            <div className="card-body">
+            <section className="card-body">
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="d-flex justify-content-between align-items-center">
+              <section className="d-flex justify-content-between align-items-center">
                 <small className="text-muted">Publicado el 24/10/2022</small>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+              </section>
+            </section>
+          </section>
+        </section>
+      </section>
+    </section>
     
-    </div>
+    </section>
 <Footer/>
 </>
   )

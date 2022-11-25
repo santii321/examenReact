@@ -5,7 +5,7 @@ function Footer() {
 
       <footer className="bg-dark text-center text-white">
 
-        <div className="container p-4 pb-0">
+        <section className="container p-4 pb-0">
 
           <section className="mb-4">
 
@@ -26,13 +26,13 @@ function Footer() {
               <i class="fab fa-github"></i></a>
           </section>
 
-        </div>
+        </section>
 
 
 
-        <div className="text-center p-3" >
+        <section className="text-center p-3" >
           <p>© 2022 Copyright - HappyAgro - Desarrollada por Santiago Gaviria</p>
-        </div>
+        </section>
 
       </footer>
 
