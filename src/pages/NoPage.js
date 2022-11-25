@@ -1,5 +1,5 @@
 const NoPage = () => {
-    return <h1>error paginas</h1>;
+    return <center><h1>ERROR AL BUSCAR ESTA PAGINA</h1></center>;
   };
   
   export default NoPage;
