@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&display=swap');
 body{
     background:  #f8f9fa;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: medium;
 }
 .bg-color-nav{
     background-color: #f1f1f1;
@@ -14,6 +17,9 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.headerLogo{
+    width: 50%;
 }
 
 .tamano-letra{

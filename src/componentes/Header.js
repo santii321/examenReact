@@ -3,7 +3,7 @@ function Header() {
 
   return (
     <header>
-      <section classNameName="headerLogo">
+      <section className="headerLogo">
         <div className="slogan">
           <h1 className="fw-light text-white">HappyAgro</h1>
           <p className="lead text-white">Somos una iniciativa que busca cultivar y distribuir en todo Colombia nuestra maravillosa planta emocional.</p>
